@@ -1,2 +1,2 @@
-Will become a heading
+become a heading
 ==============
