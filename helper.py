@@ -1,4 +1,4 @@
 __author__ = 'Sugandha'
 
-def sum5(a,b):
-    return a+b+5
+def sum6(a,b):
+    return a+b+6
